@@ -24,7 +24,8 @@
     <Compile Include="sendmails.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="emails1.csv" />
+    <Content Include="emails.csv" />
+    <Content Include="msg_impex.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
